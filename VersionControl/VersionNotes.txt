@@ -1,0 +1,11 @@
+v1.2 =
+	1.is a backup prior to creating the DB class and making changes
+v1.3 = 
+	1. USed a class approach and managed to highly improve readability
+v1.4= 
+	1.is a backup befor major changes that intorduce the class appraoch
+v1.5= 
+	1. the class approach is implemented
+	2. code and memory optimization
+v1.6= 
+	1. A backup befor beggining the testing stage
